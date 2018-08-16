@@ -104,8 +104,8 @@ namespace VibInjector
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("This program is brought to you by Shaxzy !\n");
-            sb.AppendLine("Vibrance Injector: https://github.com/Shaxzy/VibranceInjector (This project)");
-            sb.AppendLine("BlackBone: https://github.com/DarthTon/Blackbone (Windows memory hacking library used by this software)");
+            sb.AppendLine("This Injector: https://github.com/Shaxzy/VibranceInjector");
+            sb.AppendLine("Credits: https://github.com/DarthTon/Blackbone");
 
             MessageBox.Show(sb.ToString(), "Vibrance Injector - About", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
