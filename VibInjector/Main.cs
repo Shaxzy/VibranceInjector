@@ -86,7 +86,7 @@ namespace VibInjector
 
             if (VibranceInjector.Inject(printableProcess.InternalProcess, injectionSettings))
             {
-                MessageBox.Show("Injection was successful !");
+                MessageBox.Show("Injection was successful!");
             }
             else
             {
