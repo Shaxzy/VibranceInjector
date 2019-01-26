@@ -193,7 +193,7 @@
             this.injectBtn.Name = "injectBtn";
             this.injectBtn.Size = new System.Drawing.Size(319, 44);
             this.injectBtn.TabIndex = 8;
-            this.injectBtn.Text = "Inject !";
+            this.injectBtn.Text = "Inject";
             this.injectBtn.UseVisualStyleBackColor = true;
             this.injectBtn.Click += new System.EventHandler(this.injectBtn_Click);
             // 
